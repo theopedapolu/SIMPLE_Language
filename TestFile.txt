@@ -1,0 +1,11 @@
+10_rem_Find Powers of an Integer
+15_rem_Enter the base
+20_input_x
+25_rem_Enter the maximum power
+30_input_y
+35_let_i_=_0
+40_let_value_=_x|^|i
+45_print_value
+50_let_i_=_i|+|1
+55_if_i_<_y_goto_40
+60_end
